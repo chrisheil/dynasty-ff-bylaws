@@ -95,9 +95,9 @@ The rookie drafts will be 4 rounds of non-snaking NFL style drafts and consist o
 ## League Dues and Payouts
 
 League dues will be $75 per team. League dues will be due at the conclusion of each fantasy season. The payouts are as follows:
-1st Place - $500
-2nd Place - $250
-3rd Place - $150
+- 1st Place - $500
+- 2nd Place - $250
+- 3rd Place - $150
 
 ## Misc.
 
