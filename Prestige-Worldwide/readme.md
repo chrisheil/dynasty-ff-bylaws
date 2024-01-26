@@ -49,9 +49,13 @@ Prior to each year’s opening game, teams must cut their rosters back down to 3
 
 Starting lineups may not include bye week players. Active management of starting lineups is expected. Neglected lineups will not be tolerated. Penalties for frequently neglected lineups could include loss of future rookie draft picks. Starting lineups will consist of the following:
 
-## Offense
-
-1-QB, 2-RB, 3-WR, 1-TE, 2-Flex(WR/TE/RB), 1-SF(QB/WR/TE/RB) = 10 Starters
+Starting Lineup (10 starters):
+- 1-QB
+- 2-RB
+- 3-WR
+- 1-TE
+- 2-Flex(WR/TE/RB)
+- 1-SF(QB/WR/TE/RB)
 
 ## Inactive Penalty
 
