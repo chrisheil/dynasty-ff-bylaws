@@ -71,10 +71,7 @@ Future costs are as follows:
 ## Adds/Drops/Waivers/Free Agency
 
 Free agency will operate as follows:
-This league will be utilizing a F.A.A.B. (Free Agency Acquisition Budget) system for waiver wire acquisitions during the league off-season.
-Before each season teams will be given a one time $1000 budget to bid on free agents.
-Bidding windows will run weekly on Thursdays at 8 am Central time. The highest bidders for an individual player will be awarded the player at the closing of the bidding window and the bidding dollars will be removed from their budget.
-Currency will not carry over year to year, but MAY be traded. Once waivers clear, all players will be on a first come first served basis including dropped players.
+This league will be utilizing a F.A.A.B. (Free Agency Acquisition Budget) system for waiver wire acquisitions during the league off-season. Before each season teams will be given a one time $1000 budget to bid on free agents. Bidding windows will run daily during the off-season and will run weekly during the season. Waivers will run on Thursdays at 8 am Central time. The highest bidders for an individual player will be awarded the player at the closing of the bidding window and the bidding dollars will be removed from their budget. Currency will not carry over year to year, but MAY be traded. Once waivers clear, all players will be on a first come first served basis including dropped players.
 
 ## Injured Reserve
 
